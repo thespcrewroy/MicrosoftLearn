@@ -10,4 +10,4 @@ Learn how to build observable, production ready, distributed applications with .
 
 
 > [!IMPORTANT]\
-> **Prerequisites**: Experience building web applications using .NET and C#**
+> **Prerequisites**: Experience building web applications using .NET and C#
